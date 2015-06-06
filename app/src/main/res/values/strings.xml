@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModernArtUi</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="color1">New Text</string>
+</resources>
